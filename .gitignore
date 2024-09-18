@@ -1,0 +1,16 @@
+__pycache__/
+
+env/
+.venv/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+.ipynb_checkpoints
+
+.idea/
+.vscode/
+
+.DS_Store
+
